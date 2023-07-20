@@ -1,10 +1,8 @@
 # USAF
 -----
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/915341782299050024/1131621424897998868/image.png", width="500", height="500">
+<img src="https://cdn.discordapp.com/attachments/915341782299050024/1131621424897998868/image.png", width="1000", height="500">
 </p>
-
-https://repository-images.githubusercontent.com/511306162/fbf9f42b-8aee-4d1a-8f2f-5b68285736a7
 -----
 
 ### <p align="center"> Ideas | 💡</p>
